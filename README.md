@@ -17,6 +17,8 @@ hanium project 2019
 * server management on raspberrypi
 
 * raspberrypi setting(raspbian)
+* apache web server setting
+* mariadb setting
 * user 정보/접근할 수 있는 container ID 관리
 * TCP/IP socket programming을 통해 data 수신 및 DB에 upload
 * container 정보를 열람하는 webpage 제작
