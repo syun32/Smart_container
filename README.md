@@ -2,7 +2,7 @@
 hanium project 2019
 
 # smart container project
-# 3D printing, Arduino, raspberrypi를 활용한 smart container project
+* 3D printing, Arduino, raspberrypi를 활용한 smart container project
 온도, 습도, LOCK정보를 displaying
 GPS sensor를 통한 위치 정보 수집
 비밀번호와 RFID를 이용한 이중보안
@@ -12,7 +12,7 @@ ESP8266 wifi 통신을 통해 container에 부착된 Arduino와 server역할을 
 container의 정보를 열람할 수 있는 webpage 제작/관리
 
 # my works
-# server management on raspberrypi
+* server management on raspberrypi
 raspberrypi setting(raspbian)
 user 정보/접근할 수 있는 container ID 관리
 TCP/IP socket programming을 통해 data 수신 및 DB에 upload
@@ -24,8 +24,8 @@ data 수신
 DB의 해당 container ID table로 data upload
 
 # Webpage
-# PHP files
-# DB와의 connection을 통해 container data를 보여줄 수 있다
+* PHP files
+* DB와의 connection을 통해 container data를 보여줄 수 있다
 main page는 login page
 user/administrator login
 administrator login 상태에서는 user list와 활성화 상태 수정 가능
