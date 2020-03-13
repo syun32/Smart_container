@@ -12,8 +12,10 @@ hanium project 2019
 * 각 container의 정보를 DB에 upload하여 관리
 * container의 정보를 열람할 수 있는 webpage 제작/관리
 
+# role
 
-# my works
+### sihyun
+
 * server management on raspberrypi
 
 * raspberrypi setting(raspbian)
