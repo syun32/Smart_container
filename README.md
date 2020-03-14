@@ -17,13 +17,22 @@ hanium project 2019
 ### sihyun
 
 * server management on raspberrypi
-
 * raspberrypi setting(raspbian)
 * apache web server setting
 * mariadb setting
 * user 정보/접근할 수 있는 container ID 관리
 * TCP/IP socket programming을 통해 data 수신 및 DB에 upload
 * container 정보를 열람하는 webpage 제작
+
+
+
+### Jisu
+
+- Arduino Mega 동작 구현
+  - DHT11로 온,습도 측정 후 LCD 출력
+  - 온도 기준에 맞춰 펠티어 소자 ON/OFF(Mosfet 활용)
+  - Servo Motor, RFID(RC522), Keypad 사용한 LOCK/UNLOCK 동작
+- 회로 구성
 
 
 # server.c
