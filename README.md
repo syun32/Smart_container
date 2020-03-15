@@ -14,7 +14,7 @@ hanium project 2019
 
 # role
 
-### sihyun
+### ihyun
 
 * server management on raspberrypi
 * raspberrypi setting(raspbian)
