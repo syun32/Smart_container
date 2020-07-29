@@ -1,8 +1,8 @@
-# smart_container
+# Smart_container
 hanium project 2019
 
 
-# smart container project
+# Smart container project
 * 3D printing, Arduino, raspberrypi를 활용한 smart container project
 * 온도, 습도, LOCK정보를 displaying
 * GPS sensor를 통한 위치 정보 수집
@@ -12,7 +12,7 @@ hanium project 2019
 * 각 container의 정보를 DB에 upload하여 관리
 * container의 정보를 열람할 수 있는 webpage 제작/관리
 
-# role
+# Role
 
 ### Sihyun
 
